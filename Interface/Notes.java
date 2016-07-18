@@ -8,8 +8,8 @@ public class Notes {
 	 * Similarly, a class that implements Football needs to define the three methods from Football 
 	 * and the two methods from Sports.
 	 */
-	
-	
+
+
 	/*
 	 * //Filename: Sports.java
 public interface Sports
@@ -35,7 +35,7 @@ public interface Hockey extends Sports
    public void overtimePeriod(int ot);
 }
 	 */
-	
-	
-	
+
+
+
 }
