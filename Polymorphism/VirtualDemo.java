@@ -8,7 +8,7 @@ public class VirtualDemo{
 		Employee e = new Salary("john", "bostin",33,2400.0);
 		System.out.println("Call mailCheck using salary reference -- ");
 		s.mailCheck();
-		System.out.println("\n Call mailcheck using employee reference -- ");
+		System.out.println("\nCall mailcheck using employee reference -- ");
 		e.mailCheck();
 
 		
